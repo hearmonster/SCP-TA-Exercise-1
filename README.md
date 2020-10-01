@@ -1,3 +1,15 @@
+# Exercise #1 - The Business Application Studio
+
+* Create a schema (testing it locally using embedded SQLlite)
+* Implement Associations between the tables for navigation
+* Create an OData service layer on top
+
+Deploy it to your Cloud Foundry using you Platform Account credentials (converting the SQLllite backend to HANA)
+
+
+
+
+
 # Getting Started
 
 Welcome to your new project.
